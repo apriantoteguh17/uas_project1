@@ -1,0 +1,39 @@
+.line{
+  	background-color: rgba(0,80,255,0.6);
+  	position: absolute;
+ 	border-radius: 20px;
+ 	height: 17px;
+ 	-webkit-transform: rotate(135deg);
+ 	-moz-transform: rotate(135deg);
+ 	-ms-transform: rotate(135deg);
+ 	-o-transform: rotate(135deg);
+ 	transform: rotate(135deg);
+	box-shadow:5px 5px 8px rgb(0,240,255),
+			-5px 5px 8px rgb(0,240,255),
+			5px -5px 8px rgb(0,240,255),
+			-5px -5px 8px rgb(0,240,255); 	
+}
+#line1{
+	width: 500px;
+	margin: 75px -110px;
+}
+#line2{
+	width: 650px;
+	margin: 160px -120px;
+}
+#line3{
+	width: 800px;
+	margin: 250px -130px;
+}
+#line4{
+	width: 810px;
+	margin: 360px 690px;
+}
+#line5{
+	width: 650px;
+	margin: 420px 880px;
+}
+#line6{
+	width: 400px;
+	margin: 505px 1100px;
+}
